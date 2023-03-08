@@ -57,7 +57,7 @@ def Epanechnikov(x):
 Kernels are the functions that determine how points are grouped together in locally weighted regression. Think of them as fences around each observation: if a point falls within the fence, the machine assumes they are friends and the kernel will group them together for the local regression. Different kernels can lead to different locally weighted regressions.
 <figure>
 <center>
-<img src'https://drive.google.com/file/d/1H8GZbgK7BXlmS3h7ZmrmujEgKUf0IChJ/view?usp=share_link' 
+<img src='https://drive.google.com/file/d/1H8GZbgK7BXlmS3h7ZmrmujEgKUf0IChJ/view?usp=share_link' 
 width='500px' />
 <figcaption></figcaption></center>
 </figure>
